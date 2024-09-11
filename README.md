@@ -40,7 +40,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. If you're a new user, register for [Lumoz Quidditch](https://t.me/Lumoz_Quidditch_Bot/Match?startapp=inviteUAXHC&text=%F0%9F%A7%99)
 
-2. Create a `data.txt` file in the project root directory.
+2. Edit `data.txt` file in the project root directory.
 
 3. Add your account authorization tokens to `data.txt`, one per line. You can obtain these tokens after registering and logging into your account.
 
